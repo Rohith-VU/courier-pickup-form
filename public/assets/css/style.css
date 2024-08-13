@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-style{
+    @apply bg-gray-100 outline-none rounded  text-gray-500 w-full pl-2 text-sm h-8   ;
+}
